@@ -30,7 +30,7 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - beginner  | 🇵�
  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="40" height="40"/> </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlehKotynskyi&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OlehKotynskyi&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlehKotynskyi&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlehKotynskyi&theme=algolia)
+Использование уценки
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlehKotynskyi&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlehKotynskyi&theme=algolia)
