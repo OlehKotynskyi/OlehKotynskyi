@@ -31,6 +31,6 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - beginner  | 🇵�
 </p>
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/OlehKotynskyi)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/OlehKotynskyi) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/OlehKotynskyi)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/OlehKotynskyi) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/OlehKotynskyi)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/OlehKotynskyi/algolia/0-profile-details.svg)](https://github.com/OlehKotynskyi)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/OlehKotynskyi/algolia/1-repos-per-language.svg)](https://github.com/OlehKotynskyi) [![](https://raw.githubusercontent.com/vn7n24fzkq/OlehKotynskyi/master/OlehKotynskyi/algolia/2-most-commit-language.svg)](https://github.com/OlehKotynskyi)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/OlehKotynskyi/algolia/3-stats.svg)](https://github.com/OlehKotynskyi) [![](https://raw.githubusercontent.com/vn7n24fzkq/OlehKotynskyi/master/OlehKotynskyi/algolia/4-productive-time.svg)](https://github.com/OlehKotynskyi)
