@@ -10,7 +10,7 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - beginner  | 🇵�
 <a href="www.linkedin.com/in/oleh-kotynskyi/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 
 <p align="left">
-<a href="https://t.me/Olehkot/"><img src="https://images.app.goo.gl/nruT1NJqvswwRah79" alt="Telegram" title="Telegram" /></a>
+<a href="https://t.me/Olehkot/"><img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" title="Telegram" /></a>
 
 <h2 align="left">My stack:</h2>
 <p align="left">
@@ -30,6 +30,3 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - beginner  | 🇵�
  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipon4ik&show_icons=true&locale=en&layout=compact" alt="vipon4ik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OlehKotynskyishow_icons=true&locale=en" alt="OlehKotynskyi" /></p>
