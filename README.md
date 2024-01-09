@@ -10,7 +10,7 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - beginner  | 🇵�
 <a href="www.linkedin.com/in/oleh-kotynskyi/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 
 <p align="left">
-<a href="https://t.me/Olehkot/"><img src="https://i.blogs.es/af2a89/telegram/650_1200.jpeg" alt="Telegram" title="Telegram" width="auto" height="40"/></a>
+<a href="https://t.me/Olehkot/"><img src="https://i.blogs.es/af2a89/telegram/650_1200.jpeg" alt="Telegram" title="Telegram" width="111" height="28"/></a>
 
 <h2 align="left">My stack:</h2>
 <p align="left">
